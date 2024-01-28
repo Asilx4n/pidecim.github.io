@@ -1,0 +1,183 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.frame-1-Bkg {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #832b2b;
+}
+.frame-1-Bkg .auto-group-gqzu-NaG {
+  box-sizing: border-box;
+  padding: 0rem 0.9rem 3.821rem 0.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-knza-jxY {
+  margin-bottom: 3.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-knza-jxY .pngwing-2-GBn {
+  margin: 12.2rem 2.3rem 0rem 0rem;
+  width: 30rem;
+  height: 30rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-knza-jxY .pidecim-NEp {
+  margin: 0rem 3.8rem 24rem 0rem;
+  font-size: 15rem;
+  font-weight: 400;
+  line-height: 1.2102272542;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-knza-jxY .pidecim-NEp .pidecim-NEp-sub-0 {
+  font-size: 15rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-knza-jxY .pidecim-NEp .pidecim-NEp-sub-1 {
+  font-size: 15rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-knza-jxY .anasayfa-Qz8 {
+  margin: 12.1rem 6.5rem 0rem 0rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-knza-jxY .hakkmzda-Y4k {
+  margin: 12.1rem 6.5rem 0rem 0rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-knza-jxY .iletiim-s72 {
+  margin-top: 12.1rem;
+  cursor: pointer;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-1azp-Mnt {
+  margin-right: 1.8rem;
+  width: calc(100% - 1.8rem);
+  height: 44.5789rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-1azp-Mnt .anasayfapide3-1-VPJ {
+  margin-right: 6.8rem;
+  width: 70rem;
+  height: 44.5789rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-1azp-Mnt .auto-group-r44c-E5z {
+  margin: 1.4rem 0rem 3.579rem 0rem;
+  height: calc(100% - 4.9789rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-1azp-Mnt .auto-group-r44c-E5z .tm-pideler-15-porsiyon-olarak-smarlanabilir-YsN {
+  margin-bottom: 3.3rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-1azp-Mnt .auto-group-r44c-E5z .pidelerimiz-145-150-gr-hamurdan-retilir-Shr {
+  margin-bottom: 2.7rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-1azp-Mnt .auto-group-r44c-E5z .sebze-ve-peynir-ilaveleri-300-tl-AGU {
+  margin-bottom: 3.2rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-1azp-Mnt .auto-group-r44c-E5z .et-rnleri-ilaveleri-800-tldir-SDz {
+  margin: 0rem 0rem 2.3rem 0.8rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-Bkg .auto-group-gqzu-NaG .auto-group-1azp-Mnt .auto-group-r44c-E5z .pideci-fiyatlar-deitirme-hakkn-sakl-tutar-6JY {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-1-Bkg .ima22ge-nx4 {
+  width: 192rem;
+  height: 23.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
